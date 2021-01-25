@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  display: block;
 }
 
 .App-logo {
@@ -26,6 +27,17 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.ml35 {
+  margin-left:35%
+}
+.subtask-list {
+  margin-left:3%
 }
 
 @keyframes App-logo-spin {
